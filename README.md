@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a senior Mechanical Engineering student at Bilkent University. I have an interest in micro designs, finite element method and robotics. I am a goal-oriented, enthusiastic undergrad student. 
+
 <!--
 **MuhammedBurakGormus/MuhammedBurakGormus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

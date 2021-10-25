@@ -3,7 +3,9 @@
 I am a senior Mechanical Engineering student at Bilkent University. I have an interest in micro designs, finite element method and robotics. I am a goal-oriented, enthusiastic undergrad student. 
 
 In my profile, you can find 2 projects that implements Finite Element Method in order to analyze beams and trusses:
+
   ⏺ Beam Bending Analysis GUI
+  
   ⏺ Planar Truss Structure Analyis GUI.
   
 📫 How to reach me: burak.gormus@ug.bilkent.edu.tr

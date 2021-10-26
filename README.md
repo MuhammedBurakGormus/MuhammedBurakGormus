@@ -3,7 +3,7 @@
 I am a senior mechanical engineering student at Bilkent University. My interests are micro designs, finite element method and artifical intelligence. I am a goal-oriented, enthusiastic undergrad student. 
 
 ---
-In my profile, you can find 2 projects that implements Finite Element Method in order to analyze beams and trusses:
+**In my profile, you can find 2 projects that implement Finite Element Method in order to analyze beams and trusses:**
 - **Beam Bending Analysis MATLAB Application**
 - **Planar Truss Structure Analyis MATLAB Application**
   

@@ -4,13 +4,12 @@ I am a senior mechanical engineering student at Bilkent University. My interests
 
 ---
 **In my profile, you can find 2 projects that implement Finite Element Method in order to analyze beams and trusses:**
-- **Beam Bending Analysis MATLAB Application**
-- **Planar Truss Structure Analyis MATLAB Application**
+- [**Beam Bending Analysis MATLAB Application**](https://github.com/MuhammedBurakGormus/BeamBendingAnalysis-MATLAB-Application)
+- [**Planar Truss Structure Analyis MATLAB Application**](https://github.com/MuhammedBurakGormus/PlanarTrussStructureAnalysis-MATLAB-Application)
   
 --- 
 How to reach me: \
-📍burak.gormus@ug.bilkent.edu.tr \
-📍https://www.linkedin.com/in/muhammedburakgormus/
+📫 burak.gormus@ug.bilkent.edu.tr 
 
 --- 
 🌱 I’m currently taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am verry excited about it !

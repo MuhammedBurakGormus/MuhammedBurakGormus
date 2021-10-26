@@ -18,8 +18,8 @@ How to reach me: \
 --- 
 
 I am also delighted to share I have completed \
-⚡ CS50's Introduction to Artificial Intelligence with Python given by HarvardX \
-⚡ Introduction to Computer Science and Programming Using Python given by MITx
+⚡ CS50's Introduction to Artificial Intelligence with Python given by HarvardX [view](https://courses.edx.org/certificates/fadece01b7954accb781645d859bfc22) \
+⚡ Introduction to Computer Science and Programming Using Python given by MITx [view](https://courses.edx.org/certificates/ebc3055905384600aebd2d330d7bc94c)
 
 
 <!--

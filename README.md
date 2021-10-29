@@ -12,7 +12,7 @@ How to reach me: \
 📫 burak.gormus@ug.bilkent.edu.tr 
 
 --- 
-🌱 I’m currently taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am verry excited about it ! I am planning to share my notes as I watch the course videos.
+🌱 I’m currently taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am verry excited about it ! I am planning to share [**my notes**](https://github.com/MuhammedBurakGormus/Intro_to_Computational_Thinking_and_Data_Science) as I watch the course videos.
 
 --- 
 

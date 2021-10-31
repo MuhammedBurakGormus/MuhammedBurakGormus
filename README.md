@@ -14,6 +14,8 @@ How to reach me: \
 --- 
 🌱 I’m currently taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am verry excited about it ! I am planning to share [**my notes**](https://github.com/MuhammedBurakGormus/Intro_to_Computational_Thinking_and_Data_Science) as I watch the course videos.
 
+🌱 I'm currently revising my knowledge of [2D FEM](https://github.com/MuhammedBurakGormus/2D-FEM-Mechanical-Loadings) Analysis of Rectangular Domains under various mechanical loadings.
+
 --- 
 
 I am also delighted to share I have completed \

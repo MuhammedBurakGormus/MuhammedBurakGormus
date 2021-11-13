@@ -5,7 +5,7 @@ I am a senior mechanical engineering student at Bilkent University. My interests
 ---
 **In my profile, you can find 3 projects that implement Finite Element Method in order to analyze beams and trusses as well as the deformation of rectangular domains:**
 - [**Beam Bending Analysis MATLAB Application**](https://github.com/MuhammedBurakGormus/BeamBendingAnalysis-MATLAB-Application)
-- [**Planar Truss Structure Analyis MATLAB Application**](https://github.com/MuhammedBurakGormus/PlanarTrussStructureAnalysis-MATLAB-Application)
+- [**Planar Truss Structure Analsyis MATLAB Application**](https://github.com/MuhammedBurakGormus/PlanarTrussStructureAnalysis-MATLAB-Application)
 - [**Rectangular Domains Analysis Under Various Mechanical Loadings MATLAB Application**](https://github.com/MuhammedBurakGormus/2DFiniteElement)
 
 The first two projects implement 1-Dimensional Finite Element Method, whereas the last one employs 2-Dimensional Finite Element Method.

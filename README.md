@@ -8,7 +8,7 @@ I am a senior mechanical engineering student at Bilkent University. My interests
 - [**Planar Truss Structure Analyis MATLAB Application**](https://github.com/MuhammedBurakGormus/PlanarTrussStructureAnalysis-MATLAB-Application)
 - [**Rectangular Domains Analysis Under Various Mechanical Loadings MATLAB Application**](https://github.com/MuhammedBurakGormus/2DFiniteElement)
 
-The first two projects implement 1Dimensional Finite Element Method, whereas the last one employs 2D Finite Element Method.
+The first two projects implement 1-Dimensional Finite Element Method, whereas the last one employs 2-Dimensional Finite Element Method.
 
 --- 
 How to reach me: \

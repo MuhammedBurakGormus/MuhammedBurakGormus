@@ -15,9 +15,10 @@ How to reach me: \
 📫 burak.gormus@ug.bilkent.edu.tr 
 
 --- 
-🌱 I’m currently taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am very excited about it ! I am planning to share [**my notes**](https://github.com/MuhammedBurakGormus/Intro_to_Computational_Thinking_and_Data_Science) as I watch the course videos.
 
-🌱 I'm currently working on 3D FEM Analysis - Creating the Stiffness Matrix for a Hexagonal Element with 27 Nodes ...
+🌱 I'm currently working on  [**3D FEM Analysis**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) to analyze a soft robot body under dynamic motion. 
+
+🌱 I’m currently taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am very excited about it ! I am planning to share [**my notes**](https://github.com/MuhammedBurakGormus/Intro_to_Computational_Thinking_and_Data_Science) as I watch the course videos.
 
 --- 
 

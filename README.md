@@ -26,8 +26,6 @@ I am also delighted to share I have completed \
 How to reach me: \
 📫 burak.gormus@ug.bilkent.edu.tr 
 
---- 
-
 <!--
 **MuhammedBurakGormus/MuhammedBurakGormus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

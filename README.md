@@ -11,10 +11,6 @@ I am a senior mechanical engineering student at Bilkent University. My interests
 The first two projects implement 1-Dimensional Finite Element Method, whereas the last one employs 2-Dimensional Finite Element Method.
 
 --- 
-How to reach me: \
-📫 burak.gormus@ug.bilkent.edu.tr 
-
---- 
 
 🌱 I'm currently working on  [**3D FEM Analysis**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) to analyze a soft robot body under dynamic motion. 
 
@@ -26,6 +22,11 @@ I am also delighted to share I have completed \
 ⚡ CS50's Introduction to Artificial Intelligence with Python given by HarvardX [view](https://courses.edx.org/certificates/fadece01b7954accb781645d859bfc22) \
 ⚡ Introduction to Computer Science and Programming Using Python given by MITx [view](https://courses.edx.org/certificates/ebc3055905384600aebd2d330d7bc94c)
 
+--- 
+How to reach me: \
+📫 burak.gormus@ug.bilkent.edu.tr 
+
+--- 
 
 <!--
 **MuhammedBurakGormus/MuhammedBurakGormus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

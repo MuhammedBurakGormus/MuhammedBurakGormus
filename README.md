@@ -12,6 +12,12 @@ The first two projects implement 1-Dimensional Finite Element Method, whereas th
 
 --- 
 
+**You can see the work in the scope of Artificial Intelligence below. The first link leads to the project that using AI to solve NY Times 5x5 Crossword Puzzle, and the second link stands for the homeworks consisting of search algorithms.**
+
+- [**NYTimes CrossWord Puzzle Solver by implementing AI**](https://github.com/MuhammedBurakGormus/NYTimes-CrossWord-Puzzle-Solver)
+- [**HWs including search algorithms**](https://github.com/MuhammedBurakGormus/Artificial-Intelligence-CS461---Homeworks)
+
+---
 🌱 I'm currently working on  [**3D FEM Analysis**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) to analyze a soft robot body under dynamic motion. 
 
 🌱 I’m currently taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am very excited about it ! I am planning to share [**my notes**](https://github.com/MuhammedBurakGormus/Intro_to_Computational_Thinking_and_Data_Science) as I watch the course videos.

@@ -3,6 +3,10 @@
 I am a senior mechanical engineering student at Bilkent University. My interests are micro designs, finite element method and artifical intelligence. I am a goal-oriented, enthusiastic undergrad student. 
 
 ---
+🌱 I'm currently working on  [**3D FEM to Analyze a Soft Robot Body under dynamic motion.**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) 
+
+---
+
 **In my profile, you can find 3 projects that implement Finite Element Method in order to analyze beams and trusses as well as the deformation of rectangular domains:**
 - [**Beam Bending Analysis MATLAB Application**](https://github.com/MuhammedBurakGormus/BeamBendingAnalysis-MATLAB-Application)
 - [**Planar Truss Structure Analysis  MATLAB Application**](https://github.com/MuhammedBurakGormus/PlanarTrussStructureAnalysis-MATLAB-Application)
@@ -18,7 +22,6 @@ The first two projects implement 1-Dimensional Finite Element Method, whereas th
 - [**HWs including search algorithms**](https://github.com/MuhammedBurakGormus/Artificial-Intelligence-CS461---Homeworks)
 
 ---
-🌱 I'm currently working on  [**3D FEM to Analyze a Soft Robot Body under dynamic motion.**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) 
 
 🌱 I’m currently taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am very excited about it ! I am planning to share [**my notes**](https://github.com/MuhammedBurakGormus/Intro_to_Computational_Thinking_and_Data_Science) as I watch the course videos.
 

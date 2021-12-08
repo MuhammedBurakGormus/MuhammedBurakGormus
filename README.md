@@ -3,7 +3,7 @@
 I am a senior mechanical engineering student at Bilkent University. My interests are micro designs, finite element method and artifical intelligence. I am a goal-oriented, enthusiastic undergrad student. 
 
 ---
-I'm currently working on  [**3D FEM to Analyze a Soft Robot Body under dynamic motion.**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) 
+🌱 I'm currently working on  [**3D FEM to Analyze a Soft Robot Body under dynamic motion.**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) 
 
 ---
 

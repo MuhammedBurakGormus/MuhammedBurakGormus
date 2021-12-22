@@ -28,6 +28,7 @@ The first two projects implement 1-Dimensional Finite Element Method, whereas th
 --- 
 
 I am also delighted to share I have completed \
+⚡ Introduction to Computational Thinking and Data Science" given by MITX [view](https://courses.edx.org/certificates/961c00a3dcc64cec96413a7493a02ff5) \
 ⚡ CS50's Introduction to Artificial Intelligence with Python given by HarvardX [view](https://courses.edx.org/certificates/fadece01b7954accb781645d859bfc22) \
 ⚡ Introduction to Computer Science and Programming Using Python given by MITx [view](https://courses.edx.org/certificates/ebc3055905384600aebd2d330d7bc94c)
 

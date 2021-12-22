@@ -21,10 +21,6 @@ The first two projects implement 1-Dimensional Finite Element Method, whereas th
 - [**NYTimes CrossWord Puzzle Solver by implementing AI**](https://github.com/MuhammedBurakGormus/NYTimes-CrossWord-Puzzle-Solver)
 - [**HWs including search algorithms**](https://github.com/MuhammedBurakGormus/Artificial-Intelligence-CS461---Homeworks)
 
----
-
-🌱 I’m taking the "Introduction to Computational Thinking and Data Science" given by MITX and I am very excited about it ! I am planning to share [**my notes**](https://github.com/MuhammedBurakGormus/Intro_to_Computational_Thinking_and_Data_Science) as I watch the course videos.
-
 --- 
 
 I am also delighted to share I have completed \

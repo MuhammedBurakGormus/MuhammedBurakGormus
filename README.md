@@ -5,6 +5,8 @@ I am a senior mechanical engineering student at Bilkent University. My interests
 ---
 🌱 I'm currently working on  [**3D FEM to analyze a Soft Robot Body under dynamic motion.**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) 
 
+🌱 I'm currently taking the course Machine Learning given by Stanford University (Coursera), and thus far have completed three weeks. 
+
 ---
 
 **In my profile, you can find 3 projects that implement Finite Element Method in order to analyze beams and trusses as well as the deformation of rectangular domains:**

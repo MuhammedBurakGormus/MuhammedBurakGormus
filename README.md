@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-I am a fresh mechanical engineering graduate student from Bilkent University. My interests are micro designs, finite element method and artifical intelligence. I am a goal-oriented, enthusiastic undergrad student. 
+I am a fresh mechanical engineering graduate student from Bilkent University. My interests are finite element method and artifical intelligence. I am a goal-oriented, enthusiastic mechanical engineering graduate who likes to code. 
 
----
-🌱 I'm currently working on  [**3D FEM to analyze a Soft Robot Body under dynamic motion.**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM) 
-
-🌱 I'm currently taking the course Machine Learning given by Stanford University (Coursera), and thus far have completed three weeks. 
 
 ---
 
-**In my profile, you can find 3 projects that implement Finite Element Method in order to analyze beams and trusses as well as the deformation of rectangular domains:**
+**In my profile, you can find 4 projects that implement Finite Element Method in order to analyze beams, trusses, rectangular domains and soft robot bodies under loadings:**
 - [**Beam Bending Analysis MATLAB Application**](https://github.com/MuhammedBurakGormus/BeamBendingAnalysis-MATLAB-Application)
 - [**Planar Truss Structure Analysis  MATLAB Application**](https://github.com/MuhammedBurakGormus/PlanarTrussStructureAnalysis-MATLAB-Application)
 - [**Rectangular Domains Analysis Under Various Mechanical Loadings MATLAB Application**](https://github.com/MuhammedBurakGormus/2DFiniteElement)
+- [**3D FEM to analyze a Soft Robot Body under dynamic motion.**](https://github.com/MuhammedBurakGormus/SoftRobotBodyDeformation-3DFEM)
 
-The first two projects implement 1-Dimensional Finite Element Method, whereas the last one employs 2-Dimensional Finite Element Method.
+The first two projects implement 1-Dimensional Finite Element Method, whereas the third one employs 2-Dimensional Finite Element Method. The last project includes 3-Dimensional Finite Element Method.
 
 --- 
 

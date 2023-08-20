@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fresh mechanical engineering graduate student from Bilkent University. My interests are finite element method and artifical intelligence. I am a goal-oriented, enthusiastic mechanical engineering graduate who likes to code. 
+My interests are finite element method and artifical intelligence. I am a goal-oriented, enthusiastic mechanical engineering graduate who likes to code. 
 
 
 ---

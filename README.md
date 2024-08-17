@@ -15,6 +15,12 @@ The first two projects implement 1-Dimensional Finite Element Method, whereas th
 
 --- 
 
+**You can also see the project, where I implemented a Lattice-Boltzmann method using python for different computational fluid dynamics problems: 
+- [**Lattice Boltzmann Method High Performance Computing**]([https://github.com/MuhammedBurakGormus/2DFiniteElement](https://github.com/MuhammedBurakGormus/HPCSubmission
+))
+
+---
+
 **You can see the work in the scope of Artificial Intelligence below. The first link leads to the project that using AI to solve NY Times 5x5 Crossword Puzzle, and the second link stands for the homeworks consisting of search algorithms.**
 
 - [**NYTimes CrossWord Puzzle Solver by implementing AI**](https://github.com/MuhammedBurakGormus/NYTimes-CrossWord-Puzzle-Solver)

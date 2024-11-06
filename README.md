@@ -15,6 +15,14 @@ The first two projects implement 1-Dimensional Finite Element Method, whereas th
 
 --- 
 
+**You can see the project, where I used my AI/ML knowledge within the class Machine Learning Approaches in Structural Mechanics.  
+- [**Generating Images with Microstuctures using Variational Autoencoders**](https://github.com/MuhammedBurakGormus/VariationalAutoEncoders)
+
+---
+
+
+--- 
+
 **You can also see the project, where I implemented a Lattice-Boltzmann method using python for different computational fluid dynamics problems: 
 - [**Lattice Boltzmann Method High Performance Computing**](https://github.com/MuhammedBurakGormus/HPCSubmission)
 
